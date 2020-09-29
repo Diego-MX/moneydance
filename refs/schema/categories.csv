@@ -1,0 +1,45 @@
+spendee_category,spendee_type,moneydance_category
+income,Withdraw,ATM Withdrawal:Cash
+expense,Car,Transport:Car
+expense,Gas,Transport:Gas
+expense,Bills,Bills:Other Bills
+expense,Rent,Bills:Rent
+expense,Utilities,Bills:Utilities
+expense,Work,Business:Freelance
+expense,Education,Education:Education
+expense,Family & Personal,Family:Gifts
+expense,Cigarrettes,Food & Drink:Cigarrettes
+expense,Coffee,Food & Drink:Coffee & Dessert
+expense,Drinks,Food & Drink:Evening Drinks
+expense,Food & Drink,Food & Drink:Food & Drink
+expense,Groceries,Food & Drink:Groceries
+expense,Snacks,Food & Drink:Snacks
+expense,Social,Food & Drink:Social
+expense,Treats,Food & Drink:Treats
+expense,Healthcare,Healthcare:Prescriptions
+expense,Psychologist,Healthcare:Psychologist
+expense,Hobbies,Hobbies:Squash
+expense,Home,Home:Furnishing
+expense,Loans,Loan:Payment
+expense,Ajuste,Miscellaneous:Untracked
+expense,Savings,NA
+income,Devoluciones,NA
+transfer,Transfer,NA
+expense,Other,Other Expenses
+income,Business,Other Income:Extra Income
+income,Extra income,Other Income:Extra Income
+income,Gifts,Other Income:Gifts Received
+income,Loan,Other Income:Loan In
+income,Share,Other Income:Share
+expense,Books,Personal:Books/Magazines
+expense,Cinema,Personal:Cinema
+expense,Clothing,Personal:Clothing
+expense,Entertainment,Personal:Entertainment
+expense,Gifts,Personal:Gifts
+expense,Love,Personal:Love
+expense,Styling,Personal:Personal Care
+expense,Shopping,Personal:Shopping
+income,Salary,Salary:Paycheck
+expense,Transportation,Transport:Metro-Bikes
+expense,Moto,Transport:Moto
+expense,Travel,Vacation:Travel

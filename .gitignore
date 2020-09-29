@@ -1,0 +1,7 @@
+.vscode
+.jython_cache
+.directory
+
+.env
+
+*py.class
